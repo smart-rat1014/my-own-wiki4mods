@@ -1,6 +1,20 @@
-# 欢迎
+# index
 
-**这里是tank-guan.gitbook.io的作者的公开部分！有任何问题/建议/挑错都可以Issue/Pull Request！**  
-**本Repository链接着Wiki，传送门：**[https://tank-guan.gitbook.io/wiki/](https://tank-guan.gitbook.io/wiki/)  
-啊，还要说啥嘛，有任何意见的可以Pull Request修改。
+## 这是什么
+
+这里是Tank1014瞎弄得Wiki！  
+会不定时更新一些模组的资讯啊什么的！  
+喜欢的话可以收藏起来以后看呦！
+
+## 为啥访问这么慢
+
+实在没啥招了，直接用gitbook好了......  
+呐呐！所以才这么慢！  
+别问了！
+
+## 为啥要弄这么个Wiki（类的东西）
+
+因为爱好和学校的一些奇奇怪怪的规定！  
+如果有不喜欢的地方可以发邮件：  
+tank\_guan\_2008@hotmail.com
 
